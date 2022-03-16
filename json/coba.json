@@ -1,0 +1,30 @@
+[
+    { 
+    "nama" : "nurindah",
+    "umur" : 17,
+    "nrp"  : "089654",
+    "lulus": true,
+    "hobby": [
+        "memasak",
+        "rebahan"
+    ],
+    "pembimbing" : {
+        "pembimbing1" : "Dian purwanto",
+        "   pembimbing2" : "tri"
+    }
+},
+{
+    "nama" : "nurindah",
+    "umur" : 17,
+    "nrp"  : "089654",
+    "lulus": true,
+    "hobby": [
+        "memasak",
+        "rebahan"
+    ],    
+    "pembimbing" : {
+        "pembimbing1" : "Dian purwanto",
+        "   pembimbing2" : "tri"
+    }
+}
+]
